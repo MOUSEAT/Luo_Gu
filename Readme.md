@@ -8,4 +8,4 @@
 
 使用VScode中的Jupyter 插件来进行coding
 
-## 每个.ipynb 包含50道题目
+## 每个.ipynb 包含大约50道题目
